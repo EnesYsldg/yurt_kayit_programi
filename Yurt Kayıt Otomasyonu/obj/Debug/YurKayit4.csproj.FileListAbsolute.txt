@@ -1,0 +1,10 @@
+C:\Users\yesil\source\repos\YurKayit4\YurKayit4\bin\Debug\YurKayit4.exe.config
+C:\Users\yesil\source\repos\YurKayit4\YurKayit4\bin\Debug\YurKayit4.exe
+C:\Users\yesil\source\repos\YurKayit4\YurKayit4\bin\Debug\YurKayit4.pdb
+C:\Users\yesil\source\repos\YurKayit4\YurKayit4\obj\Debug\YurKayit4.csproj.AssemblyReference.cache
+C:\Users\yesil\source\repos\YurKayit4\YurKayit4\obj\Debug\YurKayit4.Form1.resources
+C:\Users\yesil\source\repos\YurKayit4\YurKayit4\obj\Debug\YurKayit4.Properties.Resources.resources
+C:\Users\yesil\source\repos\YurKayit4\YurKayit4\obj\Debug\YurKayit4.csproj.GenerateResource.cache
+C:\Users\yesil\source\repos\YurKayit4\YurKayit4\obj\Debug\YurKayit4.csproj.CoreCompileInputs.cache
+C:\Users\yesil\source\repos\YurKayit4\YurKayit4\obj\Debug\YurKayit4.exe
+C:\Users\yesil\source\repos\YurKayit4\YurKayit4\obj\Debug\YurKayit4.pdb
